@@ -1,2 +1,4 @@
 # to-do-apk
- : This is my first to do app 
+ : This project is to store to-do list items
+ I have made an android application in which we can add and delete to-do items
+ 
